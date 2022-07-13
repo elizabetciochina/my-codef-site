@@ -1,7 +1,7 @@
 ---
 title:  "My blog" 
 date: 2022-07-12T10:21:11+01:00
-draft: true
+draft: false
 ---
 
 # Instant Psychology
