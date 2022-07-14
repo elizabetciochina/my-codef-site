@@ -1,6 +1,14 @@
 my-styles.css {
 
 font-size: 40px;
-background: blue;
-padding: 0 20px;
+background: green;
+padding: 0 30px;
+}
+
+p {
+  font-size: 19px;
+}
+
+.black {
+  color: green;
 }
