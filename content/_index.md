@@ -19,9 +19,9 @@ _I live in London._
 
 #### The blog includes:
 
- * Applicable theories and ideas from Positive Psychology
- * Academic and mental health guidance 
- * Latest news to keep you up to date with all branches within Psychology
+ * _Applicable theories and ideas from Positive Psychology_
+ * _Academic and mental health guidance_ 
+ * _Latest news to keep you up to date with all branches within Psychology_
 
 
  click [here](https://www.verywellmind.com/what-is-positive-psychology-2794902) for finding out what Positive Psychology is about
@@ -33,5 +33,6 @@ _I live in London._
                                                ~Carl Rogers
 
 ```
+
 
 
